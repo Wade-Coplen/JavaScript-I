@@ -18,6 +18,36 @@ const example = {
 }
 
 // Write your intern objects here:
+const melloy = {
+  id: 1,
+  email: "mmelloy0@psu.edu",
+  firstName:
+  gender:
+}
+const diben = {
+  id: 
+  email:
+  first name:
+  gender:
+}
+const mummery = {
+  id: 
+  email:
+  first name:
+  gender:
+}
+const martinson = {
+  id: 
+  email:
+  first name:
+  gender:
+}
+const daine = {
+  id: 
+  email:
+  first name:
+  gender:
+}
 
 
 // ==== Challenge 2: Reading Object Data ==== 
